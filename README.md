@@ -1,2 +1,0 @@
-# Artizone
-GL only
